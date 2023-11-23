@@ -1619,7 +1619,7 @@ blockquote {
 }
 
 #resume {
-  background: url(/assets/img/resume2.jpeg);
+  background: url(../assets/img/resume2.jpeg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
